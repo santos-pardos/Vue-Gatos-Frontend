@@ -8,7 +8,7 @@
       <!-- Contacto -->
       <div class="footer__section">
         <b>📞 Teléfono: 123456789</b>
-        <b style="width: 230px;">✉️ <a href="mailto:123456@123.com" class="footer-link">a25959@svalero.com</a></b>
+        <b style="width: 230px;">✉️ <a href="mailto:reto@retocsv.es" class="footer-link">reto@retocsv.es</a></b>
       </div>
 
       <!-- Información General -->
